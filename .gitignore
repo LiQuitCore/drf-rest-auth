@@ -1,0 +1,12 @@
+__pycache__
+
+.idea
+*.egg-info/
+
+\.project
+\.pydevproject
+
+settings/.env
+orgaking/migrations/*
+media/*
+static/*
